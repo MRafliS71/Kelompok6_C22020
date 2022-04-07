@@ -11,7 +11,7 @@
         Sukma Julianti
 */
 
-#define MSGSIZE 10
+#define MSGSIZE 2
 
 int main(int argc, char **argv) {
         int inbuf[MSGSIZE]; //buffer
